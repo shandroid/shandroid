@@ -40,8 +40,9 @@ img {
 }
 
 .content {
-    font-size: 36px;
-    width: 30%;
-    color: rgba(255, 255, 255, 0.31);
+    font-family: 'Oleo Script', cursive;
+    font-size: 60px;
+    width: 55%;
+    color: rgba(255, 255, 255, 0.6);
     margin: 50px 50px;
 }
