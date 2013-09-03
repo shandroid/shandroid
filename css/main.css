@@ -1,0 +1,37 @@
+html {
+    background-image:url("../img/large/the_word_alive.jpg");
+    background-size:cover;
+    background-position:top left;
+    background-repeat:no-repeat;
+    width: 100%;
+    height:100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+	background-color: rgba(0, 0, 0, 0.50);
+    color: #393939;
+    font-family: 'Source Code Pro', sans-serif;
+}
+
+h2 {
+    margin: 0px;
+    padding-top: 12px;
+    padding-left: 12px;
+    font-size: 18px;
+}
+
+header {
+    background-color: #d0d0d0;
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+}
+
+img {
+    max-width: 100%;
+    height: auto !important;
+}
